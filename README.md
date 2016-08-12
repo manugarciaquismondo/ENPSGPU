@@ -14,7 +14,7 @@ where:
 * **"results.txt"** is the file containing the results of the simulation. These results contain a header with a short briefing of the simulation (number of programs, simulation time, etc), along with the ending values of the variables.
 
 
-The software is available under GPL license version 3.0. More information can be found on the following papers:
+This software is available under the GNU General Public License (GPL) version 3.0. More information can be found on the following papers:
 
 
 * M. García-Quismondo, L.F. Macías-Ramos, M.J. Pérez-Jiménez. Implementing Enzymatic Numerical
